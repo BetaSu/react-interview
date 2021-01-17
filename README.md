@@ -6,3 +6,5 @@
 [this.setState是同步还是异步的](https://github.com/BetaSu/react-interview/issues/1)
 
 [聊聊react的生命周期函数](https://github.com/BetaSu/react-interview/issues/2)
+
+[useEffect(fn, [])和cDM有什么区别？](https://github.com/BetaSu/react-interview/issues/3)
